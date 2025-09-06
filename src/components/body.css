@@ -1,0 +1,5 @@
+@import "bootstrap-icons/font/bootstrap-icons.css";
+
+body {
+  padding-top: 70px; /* adjust depending on navbar height */
+}
